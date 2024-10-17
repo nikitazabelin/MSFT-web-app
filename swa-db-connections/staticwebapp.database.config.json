@@ -38,8 +38,8 @@
       "graphql": {
         "enabled": true,
         "type": {
-          "singular": "AdventureWorks",
-          "plural": "AdventureWorks"
+          "singular": "SalesOrderDetail",
+          "plural": "SalesOrderDetails"
         }
       },
       "rest": {
